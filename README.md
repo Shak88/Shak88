@@ -2,8 +2,8 @@
 
 I'm Shukri, a passionate Odoo Development Team Lead with over 10 years of experience in the ERP sector. I'm currently diving into the exciting world of AI and data science. Welcome to my GitHub profile!
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=shak88&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/shak88?label=Followers&style=social)
 
 ## 🛠️ Skills & Expertise
 
@@ -27,6 +27,6 @@ I'm Shukri, a passionate Odoo Development Team Lead with over 10 years of experi
 
 ## 📫 Get in Touch
 
-- LinkedIn: [[Your LinkedIn Profile](https://linkedin.com/in/shukri-alnajjar-6840b658)]
-- Twitter: [@yourusername](https://twitter.com/shak88)
-- Email: [your.email@example.com](mailto:shokre4@gmail.com)
+- LinkedIn: [Shukri Alnajjar](https://www.linkedin.com/in/shukri-alnajjar-6840b658/)
+- Twitter: [@shak88](https://x.com/shak88)
+- Email: [shokre4@hotmail.com](mailto:shokre4@hotmail.com)
