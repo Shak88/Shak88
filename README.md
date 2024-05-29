@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate Odoo Development Team Lead with over 10 years of experience in the ERP sector. I'm currently diving into the exciting world of AI and data science. Welcome to my GitHub profile!
+I'm Shukri, a passionate Odoo Development Team Lead with over 10 years of experience in the ERP sector. I'm currently diving into the exciting world of AI and data science. Welcome to my GitHub profile!
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
@@ -27,6 +27,6 @@ I'm [Your Name], a passionate Odoo Development Team Lead with over 10 years of e
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [[Your LinkedIn Profile](https://linkedin.com/in/shukri-alnajjar-6840b658)]
+- Twitter: [@yourusername](https://twitter.com/shak88)
+- Email: [your.email@example.com](mailto:shokre4@gmail.com)
