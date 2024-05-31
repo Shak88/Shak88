@@ -12,6 +12,7 @@ I'm Shukri, a passionate Odoo Development Team Lead with over 10 years of experi
 - **Web Development**: HTML, CSS, Flask, Django
 - **Database Management**: PostgreSQL, MySQL
 - **Version Control**: Git, GitHub
+- **Mobile Development**: SwiftUI
 - **AI & Data Science Enthusiast**
 
 ## 🌱 Learning & Growth
